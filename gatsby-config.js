@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Skyline Ivy`,
+    title: `Fashion House`,
     description: `An online shopping experience like no other`,
-    author: `Harry Potter and friends`,
+    author: `Ankit Chaudhari`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
