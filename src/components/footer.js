@@ -8,7 +8,7 @@ const Footer = () => {
     <footer>
       <Callout image={CalloutImage}>
         <h2>
-          "The surprising styles of Skyline Ivy are advanced for all seasons."
+          "The surprising styles of Fashion House are advanced for all seasons."
         </h2>
         <p>Hansel Andersen</p>
       </Callout>
